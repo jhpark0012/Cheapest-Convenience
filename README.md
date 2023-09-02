@@ -2,7 +2,7 @@
 [DB Project] Recommend the cheapest convenience store to buy
 
 ## Period
-22.10 ~ 22.11
+22.11.01 ~ 22.11.30
 
 ## Background
 고려대학교 세종캠퍼스 주변에는 3개의 편의점(세븐 일레븐, GS25, CU 편의점)이 있다. 이 세 편의점 모두 하나의 상품에 대해 가격이 다르거나 할인율이 다를 수 있다. 
