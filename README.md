@@ -32,6 +32,12 @@ In other words, for rational consumption of students, we intend to develop a web
 ## Expected Outcomes
 Korea University students can identify the cheapest convenience store when they purchase a certain number of items they want. This will allow them to purchase the items they need while saving money.
 
+
+## Result
+
+![drink2](https://github.com/jhpark0012/Cheapest-Convenience/assets/60928446/e40f8291-a591-49e3-992c-cbbca3b34335)
+
+
 In addition, it is possible to reduce the hassle of visiting convenience stores one by one and comparing prices or checking discount information.
 
 Using a web application, we can quickly compare information from various convenience stores and make an optimal selection.
