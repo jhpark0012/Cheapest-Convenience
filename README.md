@@ -35,12 +35,14 @@ Korea University students can identify the cheapest convenience store when they 
 
 ## Result
 
-![drink2](https://github.com/jhpark0012/Cheapest-Convenience/assets/60928446/e40f8291-a591-49e3-992c-cbbca3b34335)
-
-
 In addition, it is possible to reduce the hassle of visiting convenience stores one by one and comparing prices or checking discount information.
 
 Using a web application, we can quickly compare information from various convenience stores and make an optimal selection.
+
+
+
+
+![drink2](https://github.com/jhpark0012/Cheapest-Convenience/assets/60928446/e40f8291-a591-49e3-992c-cbbca3b34335)
 
 
 
