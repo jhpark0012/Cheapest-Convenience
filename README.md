@@ -14,7 +14,7 @@ In other words, for rational consumption of students, we intend to develop a web
 ## Role 
 | 박재현 | 정준용 | 김대연 |
 |:---:|:---:|:---:|
-| SQL 추출 & 가장 저렴한 상품 계산 함수 작성 | DB 생성 | 프론트 엔드 개발 |
+| SQL extraction & creation of the cheapest product calculation function | Create DB | Front End Development |
 
 
 
