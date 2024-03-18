@@ -7,7 +7,7 @@
 ## Background
 There are three convenience stores (Seven Eleven, GS25, and CU) around Korea University Sejong Campus. All three convenience stores may have different prices or discount rates for a single product. 
 
-Considering all of these situations, we wondered which convenience store was the cheapest to buy when qw purchased a certain number of items.
+Considering all of these situations, we wondered which convenience store was the cheapest to buy when we purchased a certain number of items.
 
 In other words, for rational consumption of students, we intend to develop a web that informs them using Django and MySQL.
 
