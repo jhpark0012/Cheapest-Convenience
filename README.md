@@ -28,9 +28,6 @@ In other words, for rational consumption of students, we intend to develop a web
 - **dbproject** : Convenience store database
 - **result** : Snacks, drinks, ramen demonstration videos
 - **cheapest_convenience_recommend.py** : function of calculating the cheapest product
-
-## Result
-![drink](result/drink.gif)
   
 ## Expected Outcomes
 Korea University students can identify the cheapest convenience store when they purchase a certain number of items they want. This will allow them to purchase the items they need while saving money.
