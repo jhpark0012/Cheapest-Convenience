@@ -1,5 +1,5 @@
 # Cheapest-Convenience
-[DB Project] Recommend the cheapest convenience store to buy
+Recommend the cheapest convenience store to buy
 
 ## Period
 22.11.01 ~ 22.11.30
